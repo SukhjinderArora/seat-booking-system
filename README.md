@@ -2,7 +2,6 @@
 
 ## Details
 
-<font size=3>
 - Users can book minimum 1 seat and maximum 6 seats.
 - Seats are allocated in best fit approach, so that:
   - All seats are booked in the same row, if there is such availability.
@@ -14,4 +13,3 @@
 ## Live Demo
 
 **_Checkout the live version here:_** https://kookoo-web.herokuapp.com/
-</font>

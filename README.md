@@ -12,4 +12,4 @@
 
 ## Live Demo
 
-**_Checkout the live version here:_** https://kookoo-web.herokuapp.com/
+**_Checkout the live version here:_** https://seat-booking-system.vercel.app/
